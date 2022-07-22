@@ -1,12 +1,12 @@
 .find {
-    max-width: 1040px;
+    max-width: 1200px;
     margin: auto;
 }
 
 .find__heading h1 {
     font-size: 4rem;
     text-align: center;
-    padding: 2rem;
+    padding: 32px;
 }
 
 .find__heading p {
@@ -25,6 +25,7 @@
 
 .find__textBg p {
     font-size: 1.4rem;
+    font-weight: 600;
     margin: -8px 0 0 0;
 }
 
