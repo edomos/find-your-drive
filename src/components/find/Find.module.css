@@ -1,0 +1,47 @@
+.find {
+    max-width: 1040px;
+    margin: auto;
+}
+
+.find__heading h1 {
+    font-size: 4rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+.find__heading p {
+    text-align: center;
+}
+
+.find__textBg {
+    background: rgba(173, 199, 255, 0.502);
+    height: 30px;
+    max-width: 650px;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.find__textBg p {
+    font-size: 1.4rem;
+    margin: -8px 0 0 0;
+}
+
+.find__slider {
+    padding: 80px 0;
+}
+
+.card {
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 20px;
+    height: 200px;
+    object-fit: cover;
+}
